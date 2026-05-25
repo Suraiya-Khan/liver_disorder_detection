@@ -26,7 +26,5 @@ It demonstrates skills in **data preprocessing, feature engineering, model selec
 ## 💡 Use Cases
 - Early detection support for medical practitioners  
 - Educational resource for ML in healthcare  
-
-
 pip install -r requirements.txt
 python main.py
